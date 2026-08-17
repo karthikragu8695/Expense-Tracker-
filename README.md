@@ -1,38 +1,17 @@
-# Expense Tracker 💰
+# expensetracker
 
-A Flutter Expense Tracker application built as part of my Flutter learning journey.
+A new Flutter project.
 
-## 🚀 Features
+## Getting Started
 
-- Add and manage expenses
-- Expense data model with unique IDs
-- Category-based expenses
-- Efficient list rendering using ListView.builder
-- Expense charts and visualizations
-- Date selection
-- Form validation
-- Responsive Flutter UI
+This project is a starting point for a Flutter application.
 
-## 🛠️ Tech Stack
+A few resources to get you started if this is your first Flutter project:
 
-- Flutter
-- Dart
-- Material Design
+- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
+- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
 
-## 📚 What I Learned
-
-- Flutter Widgets
-- Stateful & Stateless Widgets
-- Data Models
-- Lists
-- ListView.builder
-- Widget Configuration
-- Objects and Value Types
-- Chart Widgets
-- Dart fundamentals
-
-## 🎯 Purpose
-
-This project is built to strengthen my practical Flutter skills and prepare for a Flutter Developer career.
-
-More features and improvements will be added as I continue learning.
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
